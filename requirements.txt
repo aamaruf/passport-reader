@@ -1,0 +1,5 @@
+Flask
+PassportEye
+pillow
+pytesseract
+opencv-python
